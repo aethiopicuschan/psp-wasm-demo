@@ -4,6 +4,8 @@
 
 ## How to build
 
+requires [cargo-psp](https://github.com/overdrivenpotato/rust-psp)
+
 ```sh
 cargo psp
 ```
